@@ -1,0 +1,14 @@
+$bg-colour: #F3F3F3;
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  background-color: $bg-colour;
+  align-items: center;
+  text-align: center;
+
+  &__search-field {
+    padding: 15px;
+    border-radius: 10px;
+  }
+}

@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  background-color: #F3F3F3;
+  align-items: center;
+  text-align: center;
+}
+.header__search-field {
+  padding: 15px;
+  border-radius: 10px;
+}
+
+/*# sourceMappingURL=Header.css.map */

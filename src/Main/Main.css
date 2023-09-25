@@ -1,0 +1,13 @@
+.main {
+  display: flex;
+}
+.main__content {
+  display: grid;
+  grid-template: 1fr 1fr 1fr/1fr 1fr 1fr 1fr;
+  align-content: initial;
+  align-items: center;
+  justify-items: center;
+  width: 76vw;
+}
+
+/*# sourceMappingURL=Main.css.map */

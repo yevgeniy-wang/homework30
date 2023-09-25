@@ -1,0 +1,12 @@
+$nav-bg: #D9D9D9;
+
+.side-nav {
+  display: flex;
+  flex-direction: column;
+  background-color: $nav-bg;
+  width: 20vw;
+  height: calc(100vh - 104px);
+  padding: 2vw;
+  gap: 2vw;
+  font-size: 1.2rem;
+}
